@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMS", "AMS\AMS.csproj", "{4907D548-871F-475B-BB7E-6A83AE41717D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Access_Layer", "Data_Access_Layer\Data_Access_Layer.csproj", "{74246598-1F6A-49C3-82C5-CBE296291BEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{3B0B3008-E27B-4807-BDA9-2DA2A9537DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4907D548-871F-475B-BB7E-6A83AE41717D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4907D548-871F-475B-BB7E-6A83AE41717D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4907D548-871F-475B-BB7E-6A83AE41717D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4907D548-871F-475B-BB7E-6A83AE41717D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74246598-1F6A-49C3-82C5-CBE296291BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74246598-1F6A-49C3-82C5-CBE296291BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74246598-1F6A-49C3-82C5-CBE296291BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74246598-1F6A-49C3-82C5-CBE296291BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0B3008-E27B-4807-BDA9-2DA2A9537DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0B3008-E27B-4807-BDA9-2DA2A9537DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0B3008-E27B-4807-BDA9-2DA2A9537DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0B3008-E27B-4807-BDA9-2DA2A9537DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130B38DD-6E43-4668-8493-1D3799E743C3}
+	EndGlobalSection
+EndGlobal
